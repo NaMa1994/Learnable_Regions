@@ -1,10 +1,6 @@
 # Text-Driven Image Editing via Learnable Regions <br /> (CVPR 2024)
 
-[![PDF](https://img.shields.io/badge/PDF-Download-orange?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Text-Driven_Image_Editing_via_Learnable_Regions_CVPR_2024_paper.pdf)
-[![arXiv](https://img.shields.io/badge/arXiv-2311.16432-b31b1b.svg)](https://arxiv.org/pdf/2311.16432) 
-[![Project Page](https://img.shields.io/badge/Project%20Page-Visit%20Now-0078D4?style=flat-square&logo=googlechrome&logoColor=white)](https://yuanze-lin.me/LearnableRegions_page/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mRWzNOlo_RR_zvrnHODgBoPAa59vGUdz#scrollTo=v_4gmzDOzN98)
-[![YouTube Video](https://img.shields.io/badge/YouTube%20Video-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=FpMWRXFraK8&feature=youtu.be)
+
 
 ## Independent Study Project
 This implementation was reproduced and analyzed as part of my Independent Study project for Fall 2024 under the supervision of **Dr. Paul Rad**. The study aimed to reproduce the original results and extend the analysis by testing the model on datasets and scenarios beyond those in the original paper. This additional exploration helped evaluate the model's adaptability and compatibility with unseen data and complex editing tasks.**You can find it in `My_Learnble_Regions_v2_ipynb.ipynb`.**

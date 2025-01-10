@@ -119,6 +119,7 @@ Below are some examples from the extended experiments:
 | ![input](assets/cake.png)   | ![output](assets/cake2.png)   | "a chocolate cake with whipped cream and diced strawberries"        |
 | ![input](assets/igloo.png)  | ![output](assets/igloo2.png)  | "the USA flag flying on top of the igloo"    |
 | ![input](assets/lake.png)   | ![output](assets/lake2.png)   | "a fishing boat on the water and two dogs on the deck"  |
+| ![input](assets/student.png)   | ![output](assets/student2.png)   | "a student wearing sunglasses"  |
 
 
 

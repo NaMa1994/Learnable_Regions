@@ -112,9 +112,13 @@ To assess the model's robustness and compatibility, additional experiments were 
 3. **Comparative Analysis**: Results were compared against existing methods, demonstrating competitive performance and faster convergence in certain cases.
 
 Below are some examples from the extended experiments:
-![Extended Results](https://raw.githubusercontent.com/yuanze-lin/LearnableRegions/main/assets/cake.png)
-![image](https://raw.githubusercontent.com/yuanze-lin/LearnableRegions/main/assets/alpaca.png)
-![image](https://raw.githubusercontent.com/yuanze-lin/LearnableRegions/main/assets/igloo.png)
-![image](https://raw.githubusercontent.com/yuanze-lin/LearnableRegions/main/assets/lake.png)
+| Input Image            | Output Image           |
+|-------------------------|------------------------|
+| ![input](assets/alpaca.png) | ![output](assets/alpaca2.png) |
+| ![input](assets/cake.png)   | ![output](assets/cake2.png)   |
+| ![input](assets/igloo.png)  | ![output](assets/igloo2.png)  |
+| ![input](assets/lake.png)   | ![output](assets/lake2.png)   |
+
+
 
 

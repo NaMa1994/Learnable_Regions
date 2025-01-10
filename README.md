@@ -114,7 +114,7 @@ To assess the model's robustness and compatibility, additional experiments were 
 Below are some examples from the extended experiments:
 | Input Image            | Output Image           |
 |-------------------------|------------------------|
-| ![input](assets/alpaca.png) | ![output](assets/alpaca2.png) |
+| ![input](assets/aplaca.png) | ![output](assets/alpaca2.png) |
 | ![input](assets/cake.png)   | ![output](assets/cake2.png)   |
 | ![input](assets/igloo.png)  | ![output](assets/igloo2.png)  |
 | ![input](assets/lake.png)   | ![output](assets/lake2.png)   |

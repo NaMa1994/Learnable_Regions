@@ -112,12 +112,12 @@ To assess the model's robustness and compatibility, additional experiments were 
 3. **Comparative Analysis**: Results were compared against existing methods, demonstrating competitive performance and faster convergence in certain cases.
 
 Below are some examples from the extended experiments:
-| Input Image            | Output Image           |
-|-------------------------|------------------------|
-| ![input](assets/aplaca.png) | ![output](assets/alpaca2.png) |
-| ![input](assets/cake.png)   | ![output](assets/cake2.png)   |
-| ![input](assets/igloo.png)  | ![output](assets/igloo2.png)  |
-| ![input](assets/lake.png)   | ![output](assets/lake2.png)   |
+| Input Image            | Output Image           | Prompt                |
+|-------------------------|------------------------|-----------------------|
+| ![input](assets/alpaca.png) | ![output](assets/alpaca2.png) | "a lion with a massive mane" |
+| ![input](assets/cake.png)   | ![output](assets/cake2.png)   | "a chocolate cake with whipped cream and diced strawberries"        |
+| ![input](assets/igloo.png)  | ![output](assets/igloo2.png)  | "the USA flag flying on top of the igloo"    |
+| ![input](assets/lake.png)   | ![output](assets/lake2.png)   | "a fishing boat on the water and two dogs on the deck"  |
 
 
 
